@@ -1,2 +1,1 @@
-# UrbanRoutes
-Documentação, design e casos de testes, além de relatórios de bugs no Jira.
+Ao testar APIs que é uma parte crucial do desenvolvimento de software, e fazê-lo com o Postman é uma abordagem muito eficaz. Verificar os endpoints, garantir que retornem os dados corretos e testar diferentes cenários de entrada são etapas importantes para garantir a robustez e confiabilidade de uma API. Além disso, integrar o processo de relatórios de bugs com o Jira é uma prática inteligente. Ao criar um projeto que inclui testes de API pelo Postman e a implementação de relatórios de bugs no Jira, para garantir a qualidade do software.
